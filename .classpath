@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Robotics/sunspotfrcsdk/lib/networktables-crio.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Robotics/sunspotfrcsdk/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Robotics/sunspotfrcsdk/lib/squawk.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Robotics/sunspotfrcsdk/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Robotics/sunspotfrcsdk/lib/wpilibj.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Robotics/sunspotfrcsdk/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build"/>
+</classpath>
